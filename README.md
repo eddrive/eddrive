@@ -1,6 +1,6 @@
 # Hi, I'm Edoardo 👋
 
-I'm a **Robotics & Computer Vision Engineer** based in Milan, finishing my MSc at Politecnico di Milano (Robotics & Vision track).
+I'm a **Robotics & Computer Vision Engineer** based in Milan. MSc in Computer Science (Robotics & Vision track) at Politecnico di Milano.
 
 I build systems that make robots perceive, navigate, and act in the real world — from surgical endoscopes to autonomous drones.
 
